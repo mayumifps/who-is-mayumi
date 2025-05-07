@@ -1,0 +1,54 @@
+body {
+background-image: url('https://i.pinimg.com/originals/2c/17/c3/2c17c35051314624349f4fa57794a91f.gif');
+background-size: cover;
+            background-repeat: repeat;
+            background-position: center center;
+            height: 100vh;
+            margin: 0;
+}
+
+div {
+    background-color: pink;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: Courier;
+    font-size: 80px;
+    text-align: center;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: Courier;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-weight: bold;
+    font-family: Courier;
+    font-size: 20px;
+    text-align: center;
+}
+
+.lists {
+    font-weight: bold;
+    font-family: Courier;
+    font-size: 15px;
+    text-align: center;
+}
+
+.listings {
+    font-weight: bold;
+    display: inline-block;
+    font-family: Courier;
+    font-size: 15px;
+    text-align: left;
+}
+
+img {
+  padding-top: 50px;
+  display: block;
+  margin: auto;
+}
